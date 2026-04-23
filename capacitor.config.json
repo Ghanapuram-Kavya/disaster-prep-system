@@ -1,0 +1,5 @@
+{
+  "appId": "com.yourcompany.yourapp",
+  "appName": "YourAppName",
+  "webDir": "www# 3. Add Android platformnpm install @capacitor/androidnpx cap add android# 4. Copy your built filesnpx cap copy# 5. Open in Android Studionpx cap open android"
+}
